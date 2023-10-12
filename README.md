@@ -39,7 +39,7 @@ To get started with this project, follow these steps:
 
 ## Data Sources
 
-The data for this project is obtained from [Data](data\mission_launches.csv).
+The data for this project is obtained from [Data](data/mission_launches.csv).
 
 ## Visualizations
 
