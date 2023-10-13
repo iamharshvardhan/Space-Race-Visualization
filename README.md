@@ -1,5 +1,6 @@
-
 # Space Race Data Visualization
+
+<center><img src="https://www.innovationnewsnetwork.com/wp-content/uploads/2022/10/rocket-launch.jpg", height=400></center>
 
 Welcome to the Space Race Data Visualization project, where we dive into the fascinating world of space exploration through data analysis and visualization.
 
